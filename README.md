@@ -22,7 +22,7 @@ Je construis des produits SaaS en solo, de l'infrastructure au front, avec une a
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,python,rust,tauri,postgres,graphql,docker,linux,cloudflare,bash&perline=7" alt="Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,python,rust,tauri,postgres,graphql,docker,linux,cloudflare,bash&perline=14" alt="Stack" />
   </a>
 </p>
 
@@ -32,19 +32,6 @@ Je construis des produits SaaS en solo, de l'infrastructure au front, avec une a
 **Infra** Coolify · Hetzner · Cloudflare · Docker · Linux  
 **AI** Claude Code · MCP (custom) · OpenAI · Anthropic · agents · skills  
 **Sys** Active Directory · GPO · Windows Server · GLPI
-
----
-
-### 📊 GitHub
-
-<p>
-  <a href="https://github.com/IamOrbitDev">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=IamOrbitDev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/IamOrbitDev">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamOrbitDev&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
-  </a>
-</p>
 
 ---
 
