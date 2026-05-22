@@ -13,7 +13,7 @@ Je construis des produits SaaS en solo, de l'infrastructure au front, avec une a
 
 ### 🎯 Signature builds (open source)
 
-- 🔗 **[gleem](https://github.com/IamOrbitDev/gleem)** — Desktop app Windows : pretty screen capture + caméra virtuelle pour Discord/Zoom/OBS. Tauri 2 + Rust + React 19. Pipeline d'image native (background, ombre, perspective, watermark) sur la Windows Graphics Capture API, sortie en MP4 ou DirectShow virtual cam. ~5 000 lignes.
+- 🔗 **[gleem-capture](https://github.com/IamOrbitDev/gleem-capture)** — Desktop app Windows : pretty screen capture + caméra virtuelle pour Discord/Zoom/OBS. Tauri 2 + Rust + React 19. Pipeline d'image native (background, ombre, perspective, watermark) sur la Windows Graphics Capture API, sortie en MP4 ou DirectShow virtual cam. ~5 000 lignes.
 - 🔗 **[claude-discord-bridge](https://github.com/IamOrbitDev/claude-discord-bridge)** — Driver Claude Code depuis Discord. Une session tmux + un canal Discord par utilisateur, avec access control hardened. Python orchestrator + fork TypeScript du plugin MCP officiel Anthropic.
 - 🔗 **[twenty-mcp](https://github.com/IamOrbitDev/twenty-mcp)** — Fork du MCP Twenty CRM. J'y ai ajouté l'introspection GraphQL dynamique + la découverte automatique des custom fields, pour que le MCP suive le schéma Twenty au lieu de le hardcoder.
 - 🔗 **[instagram-mcp](https://github.com/IamOrbitDev/instagram-mcp)** — MCP qui expose les profils et posts Instagram publics à Claude. Single-file Python avec `curl_cffi` pour bypasser le TLS fingerprinting — pas d'API key, pas d'OAuth. Brique de Digizap pour générer des vitrines à partir du compte IG d'un commerce.
